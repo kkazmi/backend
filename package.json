@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkazmi/backend.git"
+  },
+  "keywords": [
+    "react",
+    "backend"
+  ],
+  "author": "Kashif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkazmi/backend/issues"
+  },
+  "homepage": "https://github.com/kkazmi/backend#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
