@@ -20,9 +20,7 @@ const databae =
   "repos_url": "https://api.github.com/users/kkazmi/repos",
   "events_url": "https://api.github.com/users/kkazmi/events{/privacy}",
   "received_events_url": "https://api.github.com/users/kkazmi/received_events",
-  "type": "User",
-  "user_view_type": "public",
-  "site_admin": false,
+  
   "name": "Kashif kazmi",
   "company": "DHS IT Solution",
   "blog": "http://kashifkazmi.great-site.net/",
